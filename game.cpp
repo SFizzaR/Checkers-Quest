@@ -28,7 +28,7 @@ std::string Game::Start(const std::string& initialPlayer1Text, const std::string
     player1Moves = 0;
     player2Moves = 0;
 
-    if (!sidebar.loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/Checkers Quest.png")) {
+    if (!sidebar.loadFromFile("Checkers Quest.png")) {
         // Handle error: Image not found
         return "error";
     }
@@ -37,7 +37,7 @@ std::string Game::Start(const std::string& initialPlayer1Text, const std::string
     sf::Sprite sidebarSprite(sidebar);
     sidebarSprite.setPosition(600.f, 0.f);
     sf::Font font;
-    if (!font.loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/HalloweenSpooky.otf")) {
+    if (!font.loadFromFile("HalloweenSpooky.otf")) {
         // Handle error: Font not found
         return "error";
     }
