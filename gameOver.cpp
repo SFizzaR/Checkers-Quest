@@ -5,14 +5,14 @@
 #include <iostream>
 GameOver::GameOver(sf::RenderWindow& renderWindow, std::string winner, int score, int moves)
     : window(renderWindow) {
-    if (!winnerTexture.loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/game_Over.png")) {
+    if (!winnerTexture.loadFromFile("game_Over.png")) {
         // Handle error: Image not found
         return;
     }
 
     winnerSprite.setTexture(winnerTexture);
 
-    if (!font.loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/HalloweenSpooky.otf")) {
+    if (!font.loadFromFile("HalloweenSpooky.otf")) {
         // Handle error: Font not found
         return;
     }
