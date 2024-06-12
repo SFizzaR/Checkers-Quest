@@ -29,14 +29,14 @@ void  Login::dataThreadFunction() {
     }
 }*/
 Login::Login(sf::RenderWindow& renderWindow) : window(renderWindow) {
-    if (!font.loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/HalloweenSpooky.otf")) {
+    if (!font.loadFromFile("HalloweenSpooky.otf")) {
         // Handle error: Font not found
         return;
     }
     activePlayer = Player::Player1;
     loginTexture = std::make_unique<sf::Texture>();
 
-    if (!loginTexture->loadFromFile("C:/Users/fizza/source/repos/k22-4543/Project6/1.png")) {
+    if (!loginTexture->loadFromFile("1.png")) {
         // Handle error: Image not found
         return;
     }
