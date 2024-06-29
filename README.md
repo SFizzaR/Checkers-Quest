@@ -1,4 +1,4 @@
-# Checkers Game
+# Checkers Quest
 
 This repository contains a Checkers game implemented in C++ as part of a data structures project. The game features various components including a title page, login page, highscores, and utilizes several data structures such as AVL trees, queues, stacks, linked lists, quick sort, and binary search.
 
