@@ -50,4 +50,8 @@ Contributions to this project are welcome. Feel free to fork this repository, ma
 
 ## Acknowledgments:
 
-Special thanks to the creators and contributors of the data structures used in this project, as well as the SFML library for providing tools for graphics and user interaction in C++.
+### Acknowledgments  
+This project drew inspiration from the Checkers implementation by  [Rachid-AYM](https://github.com/Rachid-AYM/Projects/tree/main/Checkers). 
+We extend our gratitude for the strong foundation and innovative ideas that guided and enriched our work on this project.
+
+Additionally, we would like to thank the creators and contributors of the data structures utilized in this project. Special appreciation goes to the SFML library for providing the essential tools for graphics and user interaction in C++.
