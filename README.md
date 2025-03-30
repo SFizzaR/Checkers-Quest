@@ -44,9 +44,9 @@ Contributions to this project are welcome. Feel free to fork this repository, ma
 
 ## Authors:
 
+- [Ziya Ali](https://github.com/ziyyaa1)
 - [Syeda Fizza](https://github.com/SFizzaR) 
 - [Falah Zainab](https://github.com/FalahZainab)
-- [Ziya Ali](https://github.com/ziyyaa1)
 
 ## Acknowledgments:
 
