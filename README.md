@@ -42,9 +42,22 @@ To run the Checkers game:
    
 4. Run the compiled executable to start the game.
 
+
+## Contributions:
+
+Contributions to this project are welcome. Feel free to fork this repository, make changes, and submit pull requests with your improvements.
+
+## Authors:
+
+- [Ziya Ali](https://github.com/ziyyaa1)
+- [Syeda Fizza](https://github.com/SFizzaR) 
+- [Falah Zainab](https://github.com/FalahZainab)
+- 
+=======
 ## 🎖️ Acknowledgments  
 This project drew inspiration from the Checkers implementation by  [Rachid-AYM](https://github.com/Rachid-AYM/Projects/tree/main/Checkers). 
 We extend our gratitude for the strong foundation and innovative ideas that guided and enriched our work on this project.
+
 
 ## 🤝 Contributing
 
