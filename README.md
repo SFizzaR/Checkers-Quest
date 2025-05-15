@@ -1,32 +1,36 @@
-# Checkers Quest
+# ⚫ Checkers Quest ⚪
 
-This repository contains a Checkers game implemented in C++ as part of a data structures project. The game features various components including a title page, login page, highscores, and utilizes several data structures such as AVL trees, queues, stacks, linked lists, quick sort, and binary search.
+This repository contains a Checkers game implemented in C++ as part of a data structures project. The game features various components, including a title page, login page, and highscores, and it utilizes several data structures such as AVL trees, queues, stacks, linked lists, quick sort, and binary search.
 
-## Features:
+## ✨Features✨
+- **🎭 Title Page:** The game starts with a **stylish title screen**, setting the tone and theme for an immersive experience.  
+- **📜 Main Menu:** Players can choose from the following options:  
+  - **🎮 Play:** Opens the **login page** to enter player names and start the game.  
+  - **🏆 Scores:** View **highscores**, stored using an **AVL tree**, showcasing player names and their achievements.  
+  - **🚪 Quit:** Exit the game.  
 
-- **Title Page:** The game starts with a title page, setting the tone and theme for the gameplay experience.
+- **🔑 Login Page:** Before starting, players **enter their names** to personalize the experience.  
 
-- **Main Menu:** After the title page, players are presented with a main menu where they can choose from the following options:
-  - **Play:** Opens the login page to enter player names and start the game.
-  - **Scores:** Displays highscores using an AVL tree, showcasing player names and their scores.
-  - **Quit:** Exits the game.
+- **♟️ Gameplay:** Classic **Checkers rules** with interactive features:  
+  - Players take **turns moving diagonally** across the board.  
+  - **👑 Pieces become queens** upon reaching the opposite end.  
+  - **🟡 Player turn is highlighted** for clarity.  
+  - **📊 Score calculation** based on move count—fewer moves, higher scores!  
 
-- **Login Page:** Upon selecting "Play" from the main menu, users are prompted to log in by entering their names. The game begins once the players have entered their names.
+- **🏁 Game Over Page:** Displays the **winner** and final stats:  
+  - **🚪 Quit:** Exit the game.  
+  - **🔄 Main Menu:** Return to the main screen.  
+  - **🏅 View Highscores:** See the best performances.  
 
-- **Gameplay:** The Checkers game follows standard Checkers rules:
-  - Players take turns moving their pieces diagonally across the board.
-  - When a piece reaches the opposite end of the board, it becomes a queen.
-  - The player whose turn it is has their name highlighted.
-  - Scores are calculated based on the number of moves, with fewer moves resulting in a higher score.
+- **📈 Highscores:** The **AVL tree-powered leaderboard** ensures a fair and efficient ranking system, displaying **top players and their scores**.  
 
-- **Game Over Page:** Upon completion of a game, a game over page displays the winner and relevant information, such as final scores and game duration. The game over screen includes buttons to:
-  - Quit the game.
-  - Go back to the main menu.
-  - View the highscores.
+## 🛠️ Tech Stack  
+- **Programming Language:** C++  
+- **Graphics & UI:** SFML (Simple and Fast Multimedia Library)  
+- **Data Structures:** AVL trees, Queues, Stacks, Linked Lists, Quick Sort, and Binary Search 
+- **Game Logic:** Custom algorithms following standard Checkers rules
 
-- **Highscores:** Highscores are stored and managed using an AVL tree. The highscores screen displays the top scores along with the names of the players who achieved them.
-
-## Usage:
+## 🚀 Installation 
 
 To run the Checkers game:
 
@@ -38,6 +42,7 @@ To run the Checkers game:
    
 4. Run the compiled executable to start the game.
 
+
 ## Contributions:
 
 Contributions to this project are welcome. Feel free to fork this repository, make changes, and submit pull requests with your improvements.
@@ -47,7 +52,13 @@ Contributions to this project are welcome. Feel free to fork this repository, ma
 - [Ziya Ali](https://github.com/ziyyaa1)
 - [Syeda Fizza](https://github.com/SFizzaR) 
 - [Falah Zainab](https://github.com/FalahZainab)
+- 
+=======
+## 🎖️ Acknowledgments  
+This project drew inspiration from the Checkers implementation by  [Rachid-AYM](https://github.com/Rachid-AYM/Projects/tree/main/Checkers). 
+We extend our gratitude for the strong foundation and innovative ideas that guided and enriched our work on this project.
 
-## Acknowledgments:
 
-Special thanks to the creators and contributors of the data structures used in this project, as well as the SFML library for providing tools for graphics and user interaction in C++.
+## 🤝 Contributing
+
+Contributions to this project are welcome. Feel free to fork this repository, make changes, and submit pull requests with your improvements.
