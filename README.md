@@ -57,8 +57,3 @@ Contributions to this project are welcome. Feel free to fork this repository, ma
 ## 🎖️ Acknowledgments  
 This project drew inspiration from the Checkers implementation by  [Rachid-AYM](https://github.com/Rachid-AYM/Projects/tree/main/Checkers). 
 We extend our gratitude for the strong foundation and innovative ideas that guided and enriched our work on this project.
-
-
-## 🤝 Contributing
-
-Contributions to this project are welcome. Feel free to fork this repository, make changes, and submit pull requests with your improvements.
