@@ -52,8 +52,7 @@ Contributions to this project are welcome. Feel free to fork this repository, ma
 - [Ziya Ali](https://github.com/ziyyaa1)
 - [Syeda Fizza](https://github.com/SFizzaR) 
 - [Falah Zainab](https://github.com/FalahZainab)
-- 
-=======
+
 ## 🎖️ Acknowledgments  
 This project drew inspiration from the Checkers implementation by  [Rachid-AYM](https://github.com/Rachid-AYM/Projects/tree/main/Checkers). 
 We extend our gratitude for the strong foundation and innovative ideas that guided and enriched our work on this project.
